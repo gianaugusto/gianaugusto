@@ -1,16 +1,29 @@
-### Hi there 👋
+# Giancarlos Augusto Macedo – Personal Website
 
-<!--
-**gianaugusto/gianaugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blueviolet?logo=github)
 
-Here are some ideas to get you started:
+This is a personal portfolio website for **Giancarlos Augusto Macedo**, a Team Lead and Software Architect with over 10 years of experience in .NET, Azure, and Microservices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Live: [https://gianaugusto.github.io](https://gianaugusto.github.io)  
+📧 Contact: [gianaugusto@gmail.com](mailto:gianaugusto@gmail.com)
+
+---
+
+## 🎯 Features
+
+- Clean, responsive layout using **Bootstrap 5**
+- Dark theme with **Sunset color palette**
+- GitHub and LinkedIn integration
+- Professionally structured experience, education, and skills
+- Fast and optimized for GitHub Pages
+
+---
+
+## 🛠️ How to Use
+
+To deploy this website on your own GitHub Pages:
+
+1. **Clone this repository**  
+   ```bash
+   git clone https://github.com/gianaugusto/gianaugusto.github.io
+   cd gianaugusto.github.io
