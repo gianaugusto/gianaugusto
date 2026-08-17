@@ -41,15 +41,27 @@ Expertise in:
 
 ## 🏢 Experience Highlights
 
-- **FARFETCH** — Software Engineering Lead (2023–Present)  
-  Senior Software Engineer (2020–2023)  
-  Software Engineer (2018–2020)
+- **Constellation Automotive Group Tech Hub**
+  - Technical Lead (2026–Present)
+  - Senior Software Engineer (2025–2026)  
+  
+- **FARFETCH**
+  - Software Engineering Lead (2023–2025)
+  - Senior Software Engineer (2020–2023)
+  - Software Engineer (2018–2020)
 
-- **Capgemini** — Software Developer (2018)
+- **Capgemini**
+  - Software Developer (2018)
 
-- **IHARABRAS** — Software Architect / Sr Developer (2014–2018)
+- **IHARABRAS**
+  - Software Architect / Sr Developer (2014–2018)
 
-- **Other Roles**: Smyowl, INTL FCStone, TV TEM, Wunderman, Colmeia Digital
+- **Other Companies**:
+  - Smyowl (Software Engineer / Tech Lead)
+  - INTL FCStone (Software Engineer)
+  - TV TEM (Software Engineer / Tech Lead)
+  - Wunderman (Flash developer)
+  - Colmeia Digital (Software Engineer)
 
 ---
 
